@@ -22,14 +22,14 @@ This was created for an assignment and will likely not be updated after 1/16/202
 
 ## REPOSITORY CONTENTS:
 * README.md  
-* ETLandCode (folder): ______.ipynb, ______.ipynb, _______.ipynb, _______.ipynb  
+* ETLandCode (folder): ReginaOwnerSex.ipynb, annieOwnerRaceEducation.ipynb, connorFirmIndustry.ipynb, grudtFirmCompanyType.ipynb  
 * projectreport
     
 All .ipynb files in ETLandCode contain code and the ETL to obtain and visualize data from the 2019 ABS APIs. Each file utilizes the Company Summary API and examines the number of employer businesses in the United States, Wisconsin, and Minnesota by a different factor. 
-* ____.ipynb: industry sector   
-* ____.ipynb: customer type   
-* ____.ipynb: business owner sex    
-* ____.ipynb: business owner race group    
+* connorFirmIndustry.ipynb: industry sector   
+* grudtFirmCompanyType.ipynb: customer type   
+* ReginaOwnerSex.ipynb: business owner sex    
+* annieOwnerRaceEducation.ipynb: business owner race group    
               highest level of education obtained prior to becoming an owner - utilizes the Characteristics of Business Owners API
 
 projectreport  
